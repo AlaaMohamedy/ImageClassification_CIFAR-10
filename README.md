@@ -1,2 +1,2 @@
 # ImageClassification_CIFAR-10
-Image Classification using CIFAR-10 dataset
+Image Classification with CNN (accuracy: 0.89% on the test set )
